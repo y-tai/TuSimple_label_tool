@@ -1,8 +1,9 @@
-# TuSimple_label_tool
+# TuSimple Label Tool
 A tool helps create TuSimple format dataset.
 
 
-# Get started
+
+### Get started
 First of all, please modify the folder path in `add_lines.py` and `create_anno.py` .
 
 1.Run add_lines.py to generate the pictures with auxiliary lines. Then you will get the folder `XXXX_anno`.
